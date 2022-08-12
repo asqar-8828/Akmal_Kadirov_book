@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f06c689-96ed-4ebe-8a7f-dd097b2e0d2d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/book-api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/book-api" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/book-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/book-api/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/book-api/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/book-api/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/book-api/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/book-api/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/book-api/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/book-api/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/book-api/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/book-api/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/book-api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/book-api/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/book-api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/book-api/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/book-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/book-api/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/book-api/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/book-api/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/book-api/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/book-api/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/book-api/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/book-api/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/book-api/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/book-api/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/book-api/vendor/stella-maris/clock" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2CkrFJDTIa0QpaSV43dbbw5hbdG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/my/homework/3/book-front/src/plugins/vuex&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\my\homework\3\book-front\src\plugins\vuex" />
+      <recent name="C:\xampp\htdocs\my\homework\3\book-api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f06c689-96ed-4ebe-8a7f-dd097b2e0d2d" name="Changes" comment="" />
+      <created>1659357328396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659357328396</updated>
+      <workItem from="1659357337817" duration="2649000" />
+      <workItem from="1659360313171" duration="7022000" />
+      <workItem from="1659591698986" duration="12216000" />
+      <workItem from="1659947740164" duration="7890000" />
+      <workItem from="1659969053072" duration="1674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
